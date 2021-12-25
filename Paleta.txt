@@ -1,0 +1,17 @@
+Bg - #022407 / #001E00
+Textos em destaque - #020e24
+gradientes : 
+
+background: rgb(121,237,56);
+background: linear-gradient(90deg, rgba(121,237,56,1) 0%, rgba(158,239,255,1) 100%);
+
+FONTE:
+Light 300
+Regular 400
+Bold 700
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet"> 
+
+    font-family: 'Roboto', sans-serif;
