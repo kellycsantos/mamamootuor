@@ -126,7 +126,7 @@ main h2{
 }
 
 .show-dataHora{
-    border: #06e21148 solid thin;
+    border: #7be0673b solid 1px;
     border-radius: 50%;
     padding: 1.5vh 1.5vw;
     margin-right: 2vw;
@@ -137,8 +137,10 @@ main h2{
 #show-galeria {
  background: url(./imagens/img3.jpg) no-repeat center ;
  height: 42vh;
+ border-radius: 5px;
  background-size: cover;
  animation: slide 8s infinite linear;
+ box-shadow: 12px 15px 8px rgba(0, 0, 0, 0.534) ;
 }
 
 @keyframes slide {
